@@ -13,9 +13,5 @@ Gosto de desafios que me fazem pensar e evoluir, e acredito que a melhor forma d
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 <br>
-<div align="left">
-  <a href="mailto:franca.helena333@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+
 
