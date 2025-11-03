@@ -1,4 +1,4 @@
-###👩‍💻 Olá, eu sou a Maria Helena!
+👩‍💻 Olá, eu sou a Maria Helena!
 
 Sou estudante do Ensino Médio e entusiasta da programação. Tenho maior interesse em desenvolvimento back-end, mas também possuo boas habilidades em front-end, o que me permite criar projetos completos — do servidor à interface.
 
