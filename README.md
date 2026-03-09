@@ -1,6 +1,5 @@
 🤖 Olá, eu sou a Maria Helena!
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-Sou estudante do Ensino Médio e entusiasta da programação. Tenho maior interesse em desenvolvimento back-end, mas também possuo boas habilidades em front-end, o que me permite criar projetos completos — do servidor à interface. 
+Sou estudante do Ensino Médio e entusiasta da programação <\>. Tenho maior interesse em desenvolvimento back-end, mas também possuo boas habilidades em front-end, o que me permite criar projetos completos — do servidor à interface. 
 
 Atualmente, estou aprendendo e aprimorando meus conhecimentos em PHP, JavaScript e React Native, além de explorar bancos de dados. 
 
